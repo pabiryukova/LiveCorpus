@@ -3,7 +3,7 @@
 3	на	на	ADP	_	_	4	case	_	@yad1986m-words#@yad1986m#2341.834#2342.161
 4	интервью	интервью	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	0	root	_	@yad1986m-words#@yad1986m#2342.161#2342.488
 5	ууу	у	ADP	_	_	4	iobj	_	@yad1986m-words#@yad1986m#2342.488#2342.815
-6	мм	мм	INTJ	_	_	5	nmod	_	@yad1986m-words#@yad1986m#2342.815#2343.142
+6	мм	ммм	INTJ	_	_	5	nmod	_	@yad1986m-words#@yad1986m#2342.815#2343.142
 7	/	/	PUNCT	_	_	8	punct	_	@yad1986m-words#@yad1986m#2343.142#2343.469
 8	Романова	Романов	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	@yad1986m-words#@yad1986m#2343.469#2343.796
 9	/	/	PUNCT	_	_	11	punct	_	@yad1986m-words#@yad1986m#2343.796#2344.123
